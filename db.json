@@ -18,6 +18,3 @@
     "name": "typicode"
   }
 }
-
-
-><p>{{ user.mobilenumber.split('-')[1] }}</p
